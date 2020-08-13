@@ -17,7 +17,7 @@ It is:
 * **free** - available for download and usage at no cost, and permissively licensed so it can remain free forever.
 
 For more information, see the wiki article on [Why LuckPerms?](https://github.com/lucko/LuckPerms/wiki/Why-LuckPerms)
-
+hi
 ## Useful Links
 The latest downloads & other useful links can be found on the project homepage at [luckperms.net](https://luckperms.net/).
 
